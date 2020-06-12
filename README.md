@@ -1,4 +1,4 @@
-# A Propensity Score Analysis on the Halo Effect of Exposing Academic Degrees in Online Communities
+# "Trust me, I have a Ph.D.": A Propensity Score Analysis on the Halo Effect of Exposing Academic Degrees in Online Communities
 
 This repository contains a sample code for inferring the causal effects of exposing academic degrees in online communities. This study was presented at ICWSM-20 as a full paper [[paper]](https://www.aaai.org/ojs/index.php/ICWSM/article/view/7321/7175).
 
