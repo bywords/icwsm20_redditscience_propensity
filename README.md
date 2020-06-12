@@ -8,7 +8,7 @@ This repository contains a sample code for inferring the causal effects of expos
 
 This study aims to test the effects of transferring offline social status to online environments on community feedback; Applying the propensity score matching framework to the longitudinal dataset of two science-related subreddits, we found that exposing a high academic degree (e.g., Ph.D.) induces a positive perception, known as the halo effect. 
 
-You watch see the 10-min presentation below.
+You can watch the 10-min presentation below.
 
 [![Link to the YouTube video](https://img.youtube.com/vi/r_AILaJb3z0/0.jpg)](https://www.youtube.com/watch?v=r_AILaJb3z0)
 
